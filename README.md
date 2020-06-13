@@ -1,5 +1,4 @@
 # Portfolio Application
-<<<<<<< HEAD
 
 > This is a Ruby on Rails 6 application that allows users to create their own portfolios.
 
