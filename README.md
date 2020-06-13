@@ -1,5 +1,4 @@
-# README
-Portfolio Application
+# Portfolio Application
 
 Things you may want to cover:
 
